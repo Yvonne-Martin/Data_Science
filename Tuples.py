@@ -11,3 +11,4 @@ remove = person[:1 ]+ person[2:]
 print(remove)
 print(person)#output:('yvonne', 'Lovelace')
 
+
