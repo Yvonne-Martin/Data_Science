@@ -21,3 +21,4 @@ stack2=originalStack[2]
 print(stack2)#output:Josphine
 
 
+
